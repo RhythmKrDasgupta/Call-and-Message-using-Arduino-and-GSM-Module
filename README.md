@@ -1,0 +1,2 @@
+# Call-and-Message-using-Arduino-and-GSM-Module
+Sometimes people find it difficult to use the GSM Module for its basic functions like calling, texting etc., specifically with the Microcontrollers. So here we are going to build a Simple Mobile Phone using Arduino, in which GSM Module is used to Make the Call, answer the Call, send SMS, and read SMS, and also this Arduino phone has Mic and Speaker to talk over this Phone. This project will also serve as a proper interfacing of GSM Module with Arduino, with all the Code needed to operate any Phone’s basic functions.
